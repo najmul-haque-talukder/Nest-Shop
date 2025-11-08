@@ -1,0 +1,10 @@
+
+
+
+[
+    {"title":"Best prices & offers", "desc":"Orders $50 or more", "img" : "/img/tag.svg"},
+    {"title":"Free delivery", "desc":"24/7 amazing services", "img" : "/img/handshake.svg"},
+    {"title":"Great daily deal", "desc":"When you sign up", "img" : "/img/document.svg"},
+    {"title":"Wide assortment", "desc":"Mega Discounts", "img" : "/img/icon-hand.svg"},
+    {"title":"Easy returns", "desc":"Within 30 days", "img" : "/img/box-delivery.svg"}
+]
