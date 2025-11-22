@@ -44,7 +44,7 @@ const Header = () => {
         <div className="px-4 lg:px-10 py-4 lg:py-6 border-b border-gray-200">
           <div className="flex justify-between items-center flex-wrap gap-4">
 
-            <img src="/src/assets/icon/logo.svg" className="w-32 md:w-40" />
+            <img src="/icon/logo.svg" className="w-32 md:w-40" />
 
             <div className="p-1 border border-green-600 rounded-md flex-grow max-w-xl hidden md:block">
               <div className="flex gap-2 items-center">
@@ -70,12 +70,12 @@ const Header = () => {
                   placeholder="Search for items"
                 />
 
-                <img src="/src/assets/icon/search.png" className="w-8" />
+                <img src="/icon/search.png" className="w-8" />
               </div>
             </div>
 
             <div className="flex gap-2 items-center border border-gray-300 px-3 py-2 rounded-md shadow-lg hover:-translate-y-1 duration-700">
-              <img src="/src/assets/icon/location.svg" className="w-4" />
+              <img src="/icon/location.svg" className="w-4" />
               <select className="outline-none w-20 text-sm text-gray-500 bg-white">
                 <option>Location</option>
                 <option>Dhaka</option>
@@ -101,25 +101,25 @@ const Header = () => {
 
             <div className="hidden lg:flex gap-5">
               <div className="flex gap-2 items-center relative cursor-pointer">
-                <img src="/src/assets/icon/compare.svg" />
+                <img src="/icon/compare.svg" />
                 <p className="text-gray-500">Compare</p>
                 <p className="text-white bg-green-700 rounded-full w-5 h-5 flex items-center justify-center text-[10px] absolute left-3 bottom-3">3</p>
               </div>
 
               <div className="flex gap-2 items-center relative cursor-pointer">
-                <img src="/src/assets/icon/heart.svg" />
+                <img src="/icon/heart.svg" />
                 <p className="text-gray-500">Wishlist</p>
                 <p className="text-white bg-green-700 rounded-full w-5 h-5 flex items-center justify-center text-[10px] absolute left-4 bottom-3">6</p>
               </div>
 
               <div className="flex gap-2 items-center relative cursor-pointer">
-                <img src="/src/assets/icon/cart.svg" />
+                <img src="/icon/cart.svg" />
                 <p className="text-gray-500">Cart</p>
                 <p className="text-white bg-green-700 rounded-full w-5 h-5 flex items-center justify-center text-[10px] absolute left-3 bottom-3">2</p>
               </div>
 
               <div className="flex gap-2 items-center cursor-pointer">
-                <img src="/src/assets/icon/user.svg" />
+                <img src="/icon/user.svg" />
                 <p className="text-gray-500">Account</p>
               </div>
             </div>
@@ -154,24 +154,15 @@ const Header = () => {
 
             <div className="flex gap-4 flex-wrap text-sm">
 
-              <div className="flex gap-1 items-center">
-                <img src="/src/assets/icon/hot.svg" className="w-5" />
-                <p className="font-semibold cursor-pointer hover:text-[#3bb77e]">Deals</p>
-              </div>
-
               <p className='font-semibold cursor-pointer hover:text-[#3bb77e] duration-1000'><NavLink to={"/"}>Home <i class="fa-solid fa-angle-down"></i></NavLink></p> 
               <p className='font-semibold cursor-pointer hover:text-[#3bb77e] duration-1000'><NavLink to={"/about"}>About</NavLink></p> 
               <p className='font-semibold cursor-pointer hover:text-[#3bb77e] duration-1000'><NavLink to={"/shop"}>Shop <i class="fa-solid fa-angle-down"></i></NavLink></p> 
-              <p className='font-semibold cursor-pointer hover:text-[#3bb77e] duration-1000'><NavLink to={"/vendors"}>Vendors <i class="fa-solid fa-angle-down"></i></NavLink></p> 
-              <p className='font-semibold cursor-pointer hover:text-[#3bb77e] duration-1000'><NavLink to={"/megamenu"}>Mega Menu <i class="fa-solid fa-angle-down"></i></NavLink></p> 
-              <p className='font-semibold cursor-pointer hover:text-[#3bb77e] duration-1000'><NavLink to={"/blog"}>Blog <i class="fa-solid fa-angle-down"></i></NavLink></p> 
-              <p className='font-semibold cursor-pointer hover:text-[#3bb77e] duration-1000'><NavLink to={"/pages"}>Pages <i class="fa-solid fa-angle-down"></i></NavLink></p> 
               <p className='font-semibold cursor-pointer hover:text-[#3bb77e] duration-1000'><NavLink to={"/contacts"}>Contacts</NavLink></p>
             </div>
           </div>
 
           <div className="flex gap-3 items-center">
-            <img src="/src/assets/icon/headpone.svg" className="w-10" />
+            <img src="/icon/headpone.svg" className="w-10" />
             <div>
               <p className="text-2xl font-bold text-[#3bb77e]">1900 - 888</p>
               <p className="text-sm">24/7 Support Center</p>

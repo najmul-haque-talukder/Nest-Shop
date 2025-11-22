@@ -7,6 +7,7 @@ const CategoryCard = ({img, title, item, id, color}) => {
             <img src={img} className='mx-auto' />
             <p className='font-semibold text-center'>{title}</p>
             <p className='text-sm text-gray-600 text-center'>{item} items</p>
+            
         </div>
     </div>
   )

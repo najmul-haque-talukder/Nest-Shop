@@ -9,7 +9,7 @@ const Banner = () => {
                     <div className="relative w-full h-auto rounded-xl overflow-hidden">
                     
                     <img 
-                        src="/src/assets/img/full-img-2.jpg" 
+                        src="/img/full-img-2.jpg" 
                         className="absolute inset-0 w-full h-full object-cover"
                     />
 
@@ -25,7 +25,7 @@ const Banner = () => {
 
                         <div className="flex flex-col md:flex-row items-center gap-4">
                         <div className="flex items-center bg-white px-5 py-3 rounded-full w-full md:w-auto">
-                            <img src="/src/assets/icon/plane.png" className="w-5 h-5" />
+                            <img src="/icon/plane.png" className="w-5 h-5" />
                             <input
                             type="text"
                             placeholder="Your Email Address.."

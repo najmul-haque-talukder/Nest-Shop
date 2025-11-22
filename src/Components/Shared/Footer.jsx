@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="border-b border-gray-300 pb-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-10">
 
           <div>
-            <img src="/src/assets/icon/logo.svg" className="pb-5" />
+            <img src="/icon/logo.svg" className="pb-5" />
             <p className="pb-5">Awesome grocery store website template</p>
             <ul className="space-y-1 text-sm">
               <li><span className="font-semibold">Address:</span> 5171 W Campbell Ave undefined Kent,<br /> Utah 53127 United States</li>
@@ -76,12 +76,12 @@ const Footer = () => {
             <p className="text-sm">From App Store or Google Play</p>
 
             <div className="flex gap-2 py-5">
-              <img className="w-24" src="/src/assets/img/apple-store.jpg" />
-              <img className="w-24" src="/src/assets/img/play-store.jpg" />
+              <img className="w-24" src="/img/apple-store.jpg" />
+              <img className="w-24" src="/img/play-store.jpg" />
             </div>
 
             <p className="text-sm">Secured Payment Gateways</p>
-            <img className="py-5" src="/src/assets/img/payment.png" />
+            <img className="py-5" src="/img/payment.png" />
           </div>
 
         </div>
@@ -98,7 +98,7 @@ const Footer = () => {
         <div className="flex flex-col sm:flex-row gap-5">
 
           <div className="flex gap-3 items-center">
-            <img src="/src/assets/icon/call.svg" className="w-10" />
+            <img src="/icon/call.svg" className="w-10" />
             <div>
               <p className="text-[#3BB77E] text-2xl font-bold">1900 - 6666</p>
               <p className="text-sm text-gray-500">Working 8:00 - 22:00</p>
@@ -106,7 +106,7 @@ const Footer = () => {
           </div>
 
           <div className="flex gap-3 items-center">
-            <img src="/src/assets/icon/call.svg" className="w-10" />
+            <img src="/icon/call.svg" className="w-10" />
             <div>
               <p className="text-[#3BB77E] text-2xl font-bold">1900 - 8888</p>
               <p className="text-sm text-gray-500">24/7 Support Center</p>
@@ -117,11 +117,11 @@ const Footer = () => {
         <div>
           <ul className="flex gap-2 items-center">
             <li className="font-semibold text-sm">Follow Us:</li>
-            <li><img src="/src/assets/icon/facebook-white.svg" className="w-8 hover:-translate-y-2 duration-700 bg-[#3BB77E] rounded-full p-2" /></li>
-            <li><img src="/src/assets/icon/instragram-white.svg" className="w-8 hover:-translate-y-2 duration-700 bg-[#3BB77E] rounded-full p-2" /></li>
-            <li><img src="/src/assets/icon/twieeter-white.svg" className="w-8 hover:-translate-y-2 duration-700 bg-[#3BB77E] rounded-full p-2" /></li>
-            <li><img src="/src/assets/icon/youtube-white.svg" className="w-8 hover:-translate-y-2 duration-700 bg-[#3BB77E] rounded-full p-2" /></li>
-            <li><img src="/src/assets/icon/pinterest-white.svg" className="w-8 hover:-translate-y-2 duration-700 bg-[#3BB77E] rounded-full p-2" /></li>
+            <li><img src="/icon/facebook-white.svg" className="w-8 hover:-translate-y-2 duration-700 bg-[#3BB77E] rounded-full p-2" /></li>
+            <li><img src="/icon/instragram-white.svg" className="w-8 hover:-translate-y-2 duration-700 bg-[#3BB77E] rounded-full p-2" /></li>
+            <li><img src="/icon/twieeter-white.svg" className="w-8 hover:-translate-y-2 duration-700 bg-[#3BB77E] rounded-full p-2" /></li>
+            <li><img src="/icon/youtube-white.svg" className="w-8 hover:-translate-y-2 duration-700 bg-[#3BB77E] rounded-full p-2" /></li>
+            <li><img src="/icon/pinterest-white.svg" className="w-8 hover:-translate-y-2 duration-700 bg-[#3BB77E] rounded-full p-2" /></li>
           </ul>
 
           <p className="text-sm text-gray-500 text-center mt-2">

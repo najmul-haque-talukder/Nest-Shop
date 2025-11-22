@@ -1,0 +1,64 @@
+{
+	"blogs": [
+		{
+			"id": 1,
+			"title": "10 Easy Ways to Store Fresh Produce",
+			"desc": "Extend the life of fruits and vegetables with simple storage tips that keep them fresh and flavorful longer.",
+			"image": "https://images.unsplash.com/photo-1506808547685-e2ba962dedf0?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=1a2b3c4d"
+		},
+		{
+			"id": 2,
+			"title": "How to Pick the Perfect Avocado",
+			"desc": "Learn the trick to picking ripe avocados every time — and recipes to use them up before they go bad.",
+			"image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=2b3c4d5e"
+		},
+		{
+			"id": 3,
+			"title": "Health Benefits of Whole Grains",
+			"desc": "Discover why swapping refined grains for whole grains can improve digestion, energy and long-term health.",
+			"image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=3c4d5e6f"
+		},
+		{
+			"id": 4,
+			"title": "Making the Perfect Cup of Coffee at Home",
+			"desc": "A beginner's guide to brewing methods, grind size, and water ratios to get barista-level coffee at home.",
+			"image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=4d5e6f7a"
+		},
+		{
+			"id": 5,
+			"title": "5 Quick & Healthy Breakfast Ideas",
+			"desc": "Start your day right with these nutritious and easy breakfast recipes you can make in under 10 minutes.",
+			"image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=5e6f7a8b"
+		},
+		{
+			"id": 6,
+			"title": "A Guide to Cooking with Olive Oil",
+			"desc": "Learn which olive oils are best for cooking vs finishing, plus tips to preserve their flavor and health benefits.",
+			"image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=6f7a8b9c"
+		},
+		{
+			"id": 7,
+			"title": "Pantry Essentials for Every Kitchen",
+			"desc": "Stock your pantry with versatile ingredients that make weeknight cooking fast and delicious.",
+			"image": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2f642?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=7a8b9c0d"
+		},
+		{
+			"id": 8,
+			"title": "Sustainable Shopping: Reduce Food Waste",
+			"desc": "Practical strategies to shop smarter and reduce food waste — good for your wallet and the planet.",
+			"image": "https://images.unsplash.com/photo-1506807803488-8eafc1539f9b?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=8b9c0d1e"
+		},
+		{
+			"id": 9,
+			"title": "How to Read Food Labels Like a Pro",
+			"desc": "Decode nutrition labels and ingredient lists to make healthier choices at the supermarket.",
+			"image": "https://images.unsplash.com/photo-1506806732259-39c2d0268443?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=9c0d1e2f"
+		},
+		{
+			"id": 10,
+			"title": "Homemade Dressings: Fresh & Simple",
+			"desc": "Skip store-bought dressings — make fresh vinaigrettes and creamy dressings with pantry staples.",
+			"image": "https://images.unsplash.com/photo-1511688878356-3a0f0f7f9b46?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=0d1e2f3a"
+		}
+	]
+}

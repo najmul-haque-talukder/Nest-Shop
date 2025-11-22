@@ -48,6 +48,8 @@ const ProductPage = () => {
                         <section>
 
                         </section>
+
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat ipsam qui blanditiis aliquid laudantium maxime necessitatibus. Officia sint distinctio laudantium nulla suscipit reprehenderit impedit, perferendis iure, minima neque quibusdam tempore obcaecati, optio rem? Nobis ipsum quae, totam accusantium nostrum tempora. Est, id laudantium velit cumque doloribus doloremque tempora quasi dignissimos.</p>
                     </div>
                 }
             </div>

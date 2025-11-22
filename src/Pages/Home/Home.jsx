@@ -75,9 +75,9 @@ const Home = () => {
       {/* Section 3 – Small Banners */}
       <section>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-7 px-3 md:px-10 pb-10">
-          <SmallBanner text="Everyday Fresh & Clean with Our Products" img="/src/assets/img/small-banner-1.png" />
-          <SmallBanner text="Make your Breakfast Healthy and Easy" img="/src/assets/img/small-banner-2.png" />
-          <SmallBanner text="The best Organic Products Online" img="/src/assets/img/small-banner-3.png" />
+          <SmallBanner text="Everyday Fresh & Clean with Our Products" img="/img/small-banner-1.png" />
+          <SmallBanner text="Make your Breakfast Healthy and Easy" img="/img/small-banner-2.png" />
+          <SmallBanner text="The best Organic Products Online" img="/img/small-banner-3.png" />
         </div>
       </section>
 
@@ -152,10 +152,10 @@ const Home = () => {
       {/* Counter Cards */}
       <section className="px-3 md:px-10 py-20">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
-          <Counter img="/src/assets/img/counter-1.png" title="Seeds of Change Organic Quinoa, Brown, & Red Rice" rating="4.5" brand="NestFood" price="32.85" oldPrice="33.8" />
-          <Counter img="/src/assets/img/counter-2.png" title="Perdue Simply Smart Organics Gluten Free" rating="5.0" brand="Old El Paso" price="34.85" oldPrice="36.8" />
-          <Counter img="/src/assets/img/counter-3.png" title="Signature Wood-Fired Mushroom and Caramelized" rating="4.3" brand="Progresso" price="12.5" oldPrice="15.5" />
-          <Counter img="/src/assets/img/counter-4.png" title="Simply Lemonade with Raspberry Juice" rating="4.6" brand="Yoplait" price="15.85" oldPrice="17.7" />
+          <Counter img="/img/counter-1.png" title="Seeds of Change Organic Quinoa, Brown, & Red Rice" rating="4.5" brand="NestFood" price="32.85" oldPrice="33.8" />
+          <Counter img="/img/counter-2.png" title="Perdue Simply Smart Organics Gluten Free" rating="5.0" brand="Old El Paso" price="34.85" oldPrice="36.8" />
+          <Counter img="/img/counter-3.png" title="Signature Wood-Fired Mushroom and Caramelized" rating="4.3" brand="Progresso" price="12.5" oldPrice="15.5" />
+          <Counter img="/img/counter-4.png" title="Simply Lemonade with Raspberry Juice" rating="4.6" brand="Yoplait" price="15.85" oldPrice="17.7" />
         </div>
       </section>
 

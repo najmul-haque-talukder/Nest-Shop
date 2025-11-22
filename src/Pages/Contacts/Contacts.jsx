@@ -155,7 +155,7 @@ const Contacts = () => {
                 </div>
 
                 <img 
-                  src="/src/assets/ContactPage/contacts-page.png" 
+                  src="/ContactPage/contacts-page.png" 
                   className='rounded-xl w-full lg:w-100'
                 />
               </div>
